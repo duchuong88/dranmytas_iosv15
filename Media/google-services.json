@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1097412480771",
+    "firebase_url": "https://dr-anmytas-default-rtdb.firebaseio.com",
+    "project_id": "dr-anmytas",
+    "storage_bucket": "dr-anmytas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097412480771:android:96b34923fea8fa134c6336",
+        "android_client_info": {
+          "package_name": "thuyvandranmytas.ezspa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfx1WY_njq3y71mIaABhluoVhyLjYFxVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
